@@ -127,6 +127,7 @@ cv2.destroyAllWindows()
 ![output](1.png)
 
 i) Using Averaging Filter
+
 ![output](2.png)
 
 ii) Using Weighted Averaging Filter
